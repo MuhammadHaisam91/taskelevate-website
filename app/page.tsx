@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+
 import Navigation from '@/components/navigation';
 import TaskelevateHero from '@/components/taskelevate-hero';
 import AuthoritySocialProof from '@/components/authority-social-proof';
